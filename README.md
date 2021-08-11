@@ -1,3 +1,4 @@
+<div style="background-color:grey">
 <h1 align="center">Hi 👋, I'm Prachet Shah</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -27,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachetshah&show_icons=true&locale=en" alt="prachetshah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachetshah&" alt="prachetshah" /></p>
+</div>
