@@ -3,6 +3,8 @@
 <h3 align="center">A passionate Python developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachetshah&label=Profile%20views&color=0e75b6&style=flat" alt="prachetshah" /> </p>
+  ![age](https://img.shields.io/badge/age-18-blueviolet)
+  ![living](https://img.shields.io/badge/living-India-3c9)
 
 - 🌱 I’m currently learning **Python, Web Development & Data Science**
 
