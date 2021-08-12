@@ -1,3 +1,5 @@
+
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <div style="background-color:grey">
 <h1 align="center">Hi 👋, I'm Prachet Shah</h1>
 <h3 align="center">A passionate Python developer from India</h3>
