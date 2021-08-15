@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, Web Development & Data Science**
 
-- 💬 Ask me about **Python, C, C++, HTML, CSS, JS, Data Science**
+- 💬 Ask me about **Python, C, C++, HTML, CSS, JS, React,Node, Machine Learning**
 
 - 📫 How to reach me **prachetshah25@gmail.com**
 
