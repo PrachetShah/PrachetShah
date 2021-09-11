@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python, Web Development & Data Science**
 
-- 💬 Ask me about **Python, C, C++, HTML, CSS, JS, React, Flask, Django, Machine Learning**
+- 💬 Ask me about **Python, C, C++, HTML, CSS, JS, React, Flask, Django, Data Exploration, Machine Learning**
 
 - 📫 How to reach me **prachetshah25@gmail.com**
 
