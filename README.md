@@ -11,7 +11,7 @@
 <br>
 <br>
   
-- 🌱 I’m currently learning **Python, Web Development & Data Science**
+- 🌱 I’m currently learning **Python, Data Science & Web Development**
 
 - 💬 Ask me about **Python, C, C++, HTML, CSS, JS, React, Flask, Django, Data Exploration, Machine Learning**
 
