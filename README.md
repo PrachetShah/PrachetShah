@@ -11,9 +11,9 @@
 <br>
 <br>
   
-- 🌱 I’m currently learning **Python, Data Science & Web Development**
+- 🌱 I’m currently learning about **MLOps, Data Science & Web Development(React)**
 
-- 💬 Ask me about **Python, C, C++, HTML, CSS, JS, React, Flask, Django, Data Exploration, Machine Learning**
+- 💬 Ask me about **Python, C, React, Flask, Deep Learning with TensorFlow and Machine Learning with Scikit-Learn**
 
 - 📫 How to reach me **prachetshah25@gmail.com**
 
