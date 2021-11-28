@@ -3,7 +3,7 @@
 <!-- <img src="https://img-c.udemycdn.com/redactor/raw/2020-10-10_10-32-20-69d03d986e3001cfb40c457eede13a58.jpg" height=200 width=250> -->
 <div style="background-color:grey">
 <h1 align="center">Hi 👋, I'm Prachet Shah</h1>
-<h3 align="center">A Python and Web Developer from India</h3>
+<h3 align="center">A Deep Learning(TensorFlow) and Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachetshah&label=Profile%20views&color=0e75b6&style=flat" alt="prachetshah" /> </p>
 
