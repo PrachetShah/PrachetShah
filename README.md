@@ -16,6 +16,8 @@
 - 💬 Ask me about **Python, C, React, Flask, Web Scraping, Deep Learning with TensorFlow and Machine Learning with Scikit-Learn**
 
 - 📫 How to reach me **prachetshah25@gmail.com**
+  
+- ⭐️ Fun Fact about me **I love solving cubes and watching anime😋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
