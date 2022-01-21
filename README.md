@@ -11,7 +11,7 @@
 <br>
 <br>
   
-- 🌱 I’m currently learning about **MLOps, Data Science & Web Development(React)**
+- 🌱 I’m currently learning about **MLOps, Data Science & Web Development(React)** and exporing **Metaverse and NFT Space 😋**
 
 - 💬 Ask me about **Python, C, React, Flask, Web Scraping, Deep Learning with TensorFlow and Machine Learning with Scikit-Learn**
 
