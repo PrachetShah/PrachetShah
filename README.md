@@ -14,7 +14,7 @@
   
 - 🌱 I’m currently learning about **MLOps, Data Science & Web Development(React)** and exporing **Metaverse and NFT Space 😋**
 
-- 💬 Ask me about **Python, C, React, Flask, Web Scraping, Deep Learning with TensorFlow and Machine Learning with Scikit-Learn**
+- 💬 Ask me about **Python, C, React, Flask, Django, Node.js, Express, Web Scraping, TensorFlow, Machine Learning with Scikit-Learn**
 
 - 📫 How to reach me **prachetshah25@gmail.com**
   
