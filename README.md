@@ -40,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachetshah&show_icons=true&locale=en" alt="prachetshah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachetshah&" alt="prachetshah" /></p>
+
+<img src="https://www.codewars.com/users/Prachet25/badges/large" alt="codewars stats"/>
