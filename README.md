@@ -12,7 +12,7 @@
 <br>
 <br>
   
-- 🌱 I’m currently learning about **MLOps, Data Science & Web Development(React) and ML with AWS**
+- 🌱 I’m currently learning about **MLOps, Data Science & Web Development(React) and Cloud Technologies**
 
 - 💬 Ask me about **Python, React, Flask, Django, Node.js, Express, Web Scraping, TensorFlow, Machine Learning**
 
