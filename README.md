@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **prachetshah25@gmail.com**
   
-- 📖 Here's my **[Resume](https://drive.google.com/file/d/1HwS-guJ56g4yrcDPTAp2xmxVNWjT0paL/view?usp=sharing)** for your reference.
+- 📖 Here's my **[Resume](https://drive.google.com/file/d/1v-wchBl5a5yo6iBz25SUUnTKKVao3i0W/view?usp=sharing)** for your reference.
   
 - ⭐️ Fun Fact about me **I love solving cubes and watching anime😋**
 
