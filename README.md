@@ -20,7 +20,7 @@
   
 - 📖 Here's my **[Resume](https://drive.google.com/file/d/1j5uAkH1vVzlNLTnuontgDSWvUp9oIQPo/view?usp=sharing)** for your reference.
   
-- ⭐️ Fun Fact about myself **I love solving cubes and watching anime😋**
+- ⭐️ Fun Fact about myself **I love playing badminton, solving cubes and watching anime😋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
