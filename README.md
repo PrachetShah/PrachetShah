@@ -14,7 +14,7 @@
   
 - 🌱 I’m currently learning about **Springboot, Data Science & Web Development(React, Redux) & Cloud Technologies(AWS, and Azure)**
 
-- 💬 Ask me about **Python, React, Flask, Django, Node.js, Express, Web Scraping, TensorFlow, Machine Learning**
+- 💬 Ask me about **Python, React, Flask, Django, Node.js, Express, Java, Springboot, Web Scraping, TensorFlow, Machine Learning**
 
 - 📫 How to reach me **prachetshah25@gmail.com**
   
