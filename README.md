@@ -17,6 +17,8 @@
 - 💬 Ask me about **Python, React, Flask, Django, Node.js, Express, Java, Springboot, Web Scraping, TensorFlow, Machine Learning**
 
 - 📫 How to reach me **prachetshah25@gmail.com**
+
+- 🤖 Learn more about me on [Linkedin](https://www.linkedin.com/in/prachet-shah) . Visit my [Portfolio](https://prachet-portfolio.vercel.app/) to go through my work and achievements
   
 - 📖 Here's my **[Resume](https://drive.google.com/file/d/1TRIyfiZ__zsvf5M6G8yC_CTsJ_0wh3KE/view?usp=sharing)** for your reference.
   
