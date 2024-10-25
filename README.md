@@ -20,7 +20,7 @@
 
 - 🤖 Learn more about me on [Linkedin](https://www.linkedin.com/in/prachet-shah) . Visit my [Portfolio](https://prachet-portfolio.vercel.app/) to go through my work and achievements
   
-- 📖 Here's my **[Resume](https://drive.google.com/file/d/1TRIyfiZ__zsvf5M6G8yC_CTsJ_0wh3KE/view?usp=sharing)** for your reference.
+- 📖 Here's my **[Resume](https://drive.google.com/file/d/19kZufErxSY9JDhZ80OF6aeaGsPLdw8Pr/view?usp=sharing)** for your reference.
   
   
 - ⭐️ Fun Fact about myself **I love playing badminton 🏸, solving cubes and watching anime😋**
